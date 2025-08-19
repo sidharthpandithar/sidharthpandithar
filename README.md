@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [ApplyLog](https://github.com/sidharthpandithar/apply-log)
 
-- 👨‍💻 Checkout my portfolio **https://portfolio-two-wine-78.vercel.app/**
-
 - 🌱 I’m currently learning **Fluttr**
 
 - 📫 How to reach me **sidharthpandithar@gmail.com**
